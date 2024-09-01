@@ -60,7 +60,7 @@ If you have any question, please send a mail to `trick-judges at googlegroups.co
 ## Important Dates
 
 * August 31st, 2024: Contest open
-* February 28st, 2025: Submission deadline
+* February 28th, 2025: Submission deadline
 * April 15th--18th, 2025: Result announcement (in RubyKaigi 2025)
 
 ## Judges
