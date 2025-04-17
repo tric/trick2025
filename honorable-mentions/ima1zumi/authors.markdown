@@ -1,0 +1,3 @@
+- Mari Imaizumi
+  - mariimaizumi5@gmail.com
+  - cctld: jp

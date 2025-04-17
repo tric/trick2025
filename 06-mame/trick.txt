@@ -1,0 +1,21 @@
+
+ YYYYYYY  BBBBBBB   CCCCC   GGGGGG   MMM  MMM
+   YYY    BBB  BBB   CCC   GGG  GGG  MMM MMM
+   YYY    BBBBBBB    CCC   GGG       MMMMMM
+   YYY    BBB  BBB   CCC   GGG  GGG  MMM MMM
+   YYY    BBB  BBB  CCCCC   GGGGGG   MMM  MMM
+
+      wwwwww    wwwwww   wwwwww   wwwwwww
+          www  www  www      www  www
+       wwwww   www  www   wwwww   wwwwww
+      www      www  www  www          www
+      wwwwwww   wwwwww   wwwwwww  wwwwww
+
+                  RRRRRRRRRRR
+               RRRRRRRRRRRRRRRRR
+             RRRRRRRRRRRRRRRRRRRRR
+               RRRRRRRRRRRRRRRRR
+                 RRRRRRRRRRRRR
+                   RRRRRRRRR
+                     RRRRR
+

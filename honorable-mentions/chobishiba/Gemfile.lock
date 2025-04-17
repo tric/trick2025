@@ -1,0 +1,30 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    processing (1.1.5)
+      rays (~> 0.3.3, >= 0.3.3)
+      reflexion (~> 0.3.3, >= 0.3.3)
+      rexml
+      rucy (~> 0.3.3, >= 0.3.3)
+      xot (~> 0.3.3, >= 0.3.3)
+    rays (0.3.3)
+      rucy (~> 0.3.3, >= 0.3.3)
+      xot (~> 0.3.3, >= 0.3.3)
+    reflexion (0.3.3)
+      rays (~> 0.3.3, >= 0.3.3)
+      rucy (~> 0.3.3, >= 0.3.3)
+      xot (~> 0.3.3, >= 0.3.3)
+    rexml (3.4.0)
+    rucy (0.3.3)
+      xot (~> 0.3.3, >= 0.3.3)
+    xot (0.3.3)
+
+PLATFORMS
+  arm64-darwin-23
+  ruby
+
+DEPENDENCIES
+  processing (= 1.1.5)
+
+BUNDLED WITH
+   2.5.23

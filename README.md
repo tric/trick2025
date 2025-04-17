@@ -1,5 +1,41 @@
 # TRICK 2025 (Episode I)
 
+The 5th Transcendental Ruby Imbroglio Contest for rubyKaigi
+
+## Winners
+
+### Top 5
+
+1st: "Most revolutionary" - Don Yang
+2nd: "Most useful" - Yusuke Endoh
+3rd: "Most arithmetic" - Tomoya Ishida
+4th: "Best ASMR" - Tomoya Ishida
+5th: "Most maintainable" - Tomoya Ishida
+
+### Judges' awards:
+
+flagitious award: "Best bonus" - Yusuke Endoh
+shinh award: "Most it-tensive" - Koichi Sasada
+yhara award: "Most natural"  - beta_chelsea
+tompng award: "Most uncovered" - Yusuke Endoh
+eto award: "Most Ruby-on-Ruby award" - Kensuke Imamura (@nsfisis)
+matz award: "Best fadeaway" - Shinichiro Hamaji
+mame award: "Most shifted" - Yutaka HARA
+leonid award: "Most harmful" - yoshi-taka
+
+### Honorable mentions:
+
+* "Most musical" - Yutaka HARA
+* "Worst bug report" - Zeroichi Arakawa
+* "Least truthful" - Kensuke Imamura (@nsfisis)
+* "Lowest entropy" - Koichi Sasada
+* "Most cerebral" - Kensuke Imamura (@nsfisis)
+* "Best shapeshifter" - Kota Noda
+* "Best repetition" - chobishiba
+* "Most international" - osatoh
+* "Most visual" - Mari Imaizumi
+* "Most adaptive" - Yoh Osaki
+
 ## Goals of the TRICK
 
 * To write the most Transcendental, Imbroglio Ruby program.
@@ -61,7 +97,7 @@ If you have any question, please send a mail to `trick-judges at googlegroups.co
 
 * August 31st, 2024: Contest open
 * February 28th, 2025: Submission deadline **(Precisely, submissions will be accepted until March 2nd (Sun.) vanishes from Earth.)**
-* April 15th--18th, 2025: Result announcement (in RubyKaigi 2025)
+* April 16th, 2025: Result announcement (in RubyKaigi 2025)
 
 ## Judges
 
@@ -95,7 +131,7 @@ Alphabetical order.
 
 This work is licensed under the MIT License.
 
-    Copyright (c) 2024, TRICK Winners and Judges.
+    Copyright (c) 2024, 2025, TRICK Winners and Judges.
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal

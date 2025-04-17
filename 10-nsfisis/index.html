@@ -1,0 +1,45 @@
+<html>
+  <script src="https://cdn.jsdelivr.net/npm/@ruby/3.4-wasm-wasi@2.7.1/dist/browser.script.iife.js"></script>
+  <script type="text/ruby" src="entry.rb"></script>
+  <title>TRICK 2025 (Episode I)</title>
+  <body>
+    <style>
+      pre {
+        background-color: #eee;
+        color: #333;
+        padding: 1em;
+        border-radius: 4px;
+        overflow: auto;
+      }
+
+      .COMMENT {
+        color: #777;
+        font-style: italic;
+      }
+
+      .CONSTANT, .GLOBAL_VARIABLE, .INSTANCE_VARIABLE, .IDENTIFIER {
+        color: #088;
+      }
+
+      .KEYWORD_BREAK, .KEYWORD_CASE, .KEYWORD_DEF, .KEYWORD_ELSE, .KEYWORD_END, .KEYWORD_IF, .KEYWORD_IF_MODIFIER, .KEYWORD_WHEN {
+        color: #04c;
+        font-weight: bold;
+      }
+
+      .INTEGER, .KEYWORD_NIL {
+        color: #990;
+      }
+
+      .STRING_BEGIN, .STRING_END, .HEREDOC_START, .HEREDOC_END, .REGEXP_BEGIN, .REGEXP_END, .SYMBOL_BEGIN, .LABEL, .STRING_CONTENT {
+        color: #d50;
+      }
+
+      ruby * {
+        user-select: none;
+      }
+    </style>
+    <main>
+      <pre style="font-size: 16px;"><code id="src"></code></pre>
+    </main>
+  </body>
+</html>
