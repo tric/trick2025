@@ -6,22 +6,22 @@ The 5th Transcendental Ruby Imbroglio Contest for rubyKaigi
 
 ### Top 5
 
-1st: "Most revolutionary" - Don Yang
-2nd: "Most useful" - Yusuke Endoh
-3rd: "Most arithmetic" - Tomoya Ishida
-4th: "Best ASMR" - Tomoya Ishida
-5th: "Most maintainable" - Tomoya Ishida
+* 1st: "Most revolutionary" - Don Yang
+* 2nd: "Most useful" - Yusuke Endoh
+* 3rd: "Most arithmetic" - Tomoya Ishida
+* 4th: "Best ASMR" - Tomoya Ishida
+* 5th: "Most maintainable" - Tomoya Ishida
 
 ### Judges' awards:
 
-flagitious award: "Best bonus" - Yusuke Endoh
-shinh award: "Most it-tensive" - Koichi Sasada
-yhara award: "Most natural"  - beta_chelsea
-tompng award: "Most uncovered" - Yusuke Endoh
-eto award: "Most Ruby-on-Ruby award" - Kensuke Imamura (@nsfisis)
-matz award: "Best fadeaway" - Shinichiro Hamaji
-mame award: "Most shifted" - Yutaka HARA
-leonid award: "Most harmful" - yoshi-taka
+* flagitious award: "Best bonus" - Yusuke Endoh
+* shinh award: "Most it-tensive" - Koichi Sasada
+* yhara award: "Most natural"  - beta_chelsea
+* tompng award: "Most uncovered" - Yusuke Endoh
+* eto award: "Most Ruby-on-Ruby award" - Kensuke Imamura (@nsfisis)
+* matz award: "Best fadeaway" - Shinichiro Hamaji
+* mame award: "Most shifted" - Yutaka HARA
+* leonid award: "Most harmful" - yoshi-taka
 
 ### Honorable mentions:
 
