@@ -1,6 +1,6 @@
 # TRICK 2025 (Episode I)
 
-The 5th Transcendental Ruby Imbroglio Contest for rubyKaigi
+The 5th Transcendental Ruby Imbroglio Contest for RubyKaigi
 
 ## Winners
 
